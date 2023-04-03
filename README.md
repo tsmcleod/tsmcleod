@@ -1,7 +1,7 @@
-<h3 align="center">Hi 👋, I'm Tahlia</h3>
-<h4 align="center">Fashion marketer => software engineer passionate about bringing innovative solutions to life</h4>
+<h2 align="center">Hi 👋, I'm Tahlia</h2>
+<h3 align="center">Fashion marketer => software engineer passionate about bringing innovative solutions to life</h3>
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **React + Node**
 
 - 🚀 I’m looking to collaborate on **any cool projects!**
 
